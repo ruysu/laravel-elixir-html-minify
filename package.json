@@ -10,8 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.8.8",
-    "gulp-minify-html": "^1.0.4",
-    "laravel-elixir": "3.*"
+    "gulp-minify-html": "^1.0.4"
   },
   "repository": {
     "type": "git",
